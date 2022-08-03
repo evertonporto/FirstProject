@@ -1,0 +1,11 @@
+.profile img{
+    height: 10rem;
+    border-radius: 1.5rem ;
+    border-color: aquamarine;
+    
+}
+
+button{
+    background-color:black;
+    color: white;    
+}
